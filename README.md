@@ -65,6 +65,24 @@ Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container quer
 <tr>
 <td width="50%" valign="top">
 
+**[photo-sort](https://github.com/yrbane/photo-sort)**
+EXIF photo sorter, BLAKE3 dedup, web gallery, tags, REST server.
+
+`rust` `exif` `gallery` `blake3`
+
+</td>
+<td width="50%" valign="top">
+
+**[geo3d](https://yrbane.github.io/geo3d/)**
+Generative 3D wireframe — 7 polyhedra, 8 palettes, URL params, random mode.
+
+`js` `canvas` `3d` `generative`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[veilleur](https://github.com/yrbane/veilleur)**
 News aggregator — your information sentinel.
 
@@ -86,19 +104,13 @@ Android app for intelligent incoming call filtering.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yrbane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=6bdbdb&icon_color=dc5c3b&text_color=94a3b8&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrbane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=6bdbdb&text_color=94a3b8&langs_count=8" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=yrbane&theme=tokyonight&hide_border=true&background=0A1628&ring=DC5C3B&fire=DC5C3B&currStreakLabel=6BDBDB&sideLabels=6BDBDB&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="500" />
 
 <br><br>
 
 <sub>
 
-[debian13-admin](https://yrbane.github.io/debian13-admin/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
