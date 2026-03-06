@@ -91,7 +91,7 @@ News aggregator — your information sentinel.
 </td>
 <td width="50%" valign="top">
 
-**[callfilter](https://github.com/yrbane/callfilter)**
+**[LacheMoiLaGrappe](https://github.com/yrbane/LacheMoiLaGrappe)**
 Android app for intelligent incoming call filtering.
 
 `kotlin` `android` `telephony`
