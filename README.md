@@ -25,12 +25,16 @@ I build tools that harden servers, replace core utilities, and make the web more
 
 ### Featured projects
 
+<sub>🕹️ Everything with a screenshot is a **live demo** — click the pictures!</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
 DJ mixer in the browser — decks are YouTube players. Auto beatmatch, 3-band EQ, beat-locked loops, waveforms, MIDI, PWA. **[Live demo](https://yrbane.github.io/youtubator/)**
+
+[<img src="https://yrbane.github.io/shots/youtubator.webp" alt="youtubator screenshot" width="100%">](https://yrbane.github.io/youtubator/)
 
 `typescript` `web-audio` `dj` `beatmatch` `svelte`
 
@@ -49,6 +53,8 @@ Bend web pages with sound — audio drives CSS variables in real time. Beat-reac
 
 **[potard](https://github.com/yrbane/potard)**
 Ableton/Traktor-style audio controls as Web Components — knobs, faders, crossfader. Zero deps. **[Interactive docs](https://yrbane.github.io/potard/)**
+
+[<img src="https://yrbane.github.io/shots/potard.webp" alt="potard screenshot" width="100%">](https://yrbane.github.io/potard/)
 
 `typescript` `web-components` `ui`
 
@@ -76,6 +82,8 @@ GNOME Shell extension: route all traffic through Tor, with a colored status icon
 **[cp](https://github.com/yrbane/cp)**
 Modern GNU-compatible `cp` in Rust — zero-copy I/O, parallel directory copy, sparse files, reflink.
 
+[<img src="https://yrbane.github.io/shots/cp.webp" alt="cp docs screenshot" width="100%">](https://yrbane.github.io/cp/)
+
 `rust` `cli` `unix` `zero-copy`
 
 </td>
@@ -94,6 +102,8 @@ Share one keyboard & mouse across Linux, macOS, Windows on LAN.
 **[debian13-admin](https://github.com/yrbane/debian13-admin)**
 Bootstrap, hardening & multi-domain management for Debian 13. 465 tests, zero deps.
 
+[<img src="https://yrbane.github.io/shots/debian13-admin.webp" alt="debian13-admin docs screenshot" width="100%">](https://yrbane.github.io/debian13-admin/)
+
 `bash` `security` `ovh-api` `fail2ban` `letsencrypt`
 
 </td>
@@ -104,6 +114,8 @@ Bootstrap, hardening & multi-domain management for Debian 13. 465 tests, zero de
 **[photo-sort](https://github.com/yrbane/photo-sort)**
 EXIF photo sorter, BLAKE3 dedup, web gallery, tags, REST server.
 
+[<img src="https://yrbane.github.io/shots/photo-sort.webp" alt="photo-sort docs screenshot" width="100%">](https://yrbane.github.io/photo-sort/)
+
 `rust` `exif` `gallery` `blake3`
 
 </td>
@@ -111,6 +123,8 @@ EXIF photo sorter, BLAKE3 dedup, web gallery, tags, REST server.
 
 **[lunar-aurora](https://github.com/yrbane/lunar-aurora)**
 Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container queries, 8 themes.
+
+[<img src="https://yrbane.github.io/shots/lunar-aurora.webp" alt="lunar-aurora screenshot" width="100%">](https://yrbane.github.io/lunar-aurora/)
 
 `css` `framework` `modern-css`
 
