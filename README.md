@@ -29,6 +29,24 @@ I build tools that harden servers, replace core utilities, and make the web more
 <tr>
 <td width="50%" valign="top">
 
+**[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
+DJ mixer in the browser — decks are YouTube players. Auto beatmatch, 3-band EQ, beat-locked loops, waveforms, MIDI, PWA. **[Live demo](https://yrbane.github.io/youtubator/)**
+
+`typescript` `web-audio` `dj` `beatmatch` `svelte`
+
+</td>
+<td width="50%" valign="top">
+
+**[potard](https://github.com/yrbane/potard)**
+Ableton/Traktor-style audio controls as Web Components — knobs, faders, crossfader. Zero deps, interactive docs.
+
+`typescript` `web-components` `ui`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[debian13-admin](https://github.com/yrbane/debian13-admin)**
 Bootstrap, hardening & multi-domain management for Debian 13. 465 tests, zero deps.
 
@@ -110,7 +128,7 @@ Android app for intelligent incoming call filtering.
 
 <sub>
 
-[debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[youtubator](https://yrbane.github.io/youtubator/) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
