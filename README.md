@@ -37,20 +37,38 @@ DJ mixer in the browser — decks are YouTube players. Auto beatmatch, 3-band EQ
 </td>
 <td width="50%" valign="top">
 
-**[potard](https://github.com/yrbane/potard)**
-Ableton/Traktor-style audio controls as Web Components — knobs, faders, crossfader. Zero deps, interactive docs.
+**[WebGlitch](https://github.com/yrbane/WebGlitch)** 📺
+Bend web pages with sound — audio drives CSS variables in real time. Beat-reactive visual glitch.
 
-`typescript` `web-components` `ui`
+`typescript` `web-audio` `css` `glitch`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[debian13-admin](https://github.com/yrbane/debian13-admin)**
-Bootstrap, hardening & multi-domain management for Debian 13. 465 tests, zero deps.
+**[potard](https://github.com/yrbane/potard)**
+Ableton/Traktor-style audio controls as Web Components — knobs, faders, crossfader. Zero deps. **[Interactive docs](https://yrbane.github.io/potard/)**
 
-`bash` `security` `ovh-api` `fail2ban` `letsencrypt`
+`typescript` `web-components` `ui`
+
+</td>
+<td width="50%" valign="top">
+
+**[mystical-runic](https://github.com/yrbane/mystical-runic)** 🔮
+Ancient Symbols for Modern Web Magic — runic template engine in Rust. Most starred here.
+
+`rust` `templating` `runes`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[torall](https://github.com/yrbane/torall)**
+GNOME Shell extension: route all traffic through Tor, with a colored status icon.
+
+`gnome-shell` `tor` `privacy`
 
 </td>
 <td width="50%" valign="top">
@@ -73,10 +91,10 @@ Share one keyboard & mouse across Linux, macOS, Windows on LAN.
 </td>
 <td width="50%" valign="top">
 
-**[lunar-aurora](https://github.com/yrbane/lunar-aurora)**
-Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container queries, 8 themes.
+**[debian13-admin](https://github.com/yrbane/debian13-admin)**
+Bootstrap, hardening & multi-domain management for Debian 13. 465 tests, zero deps.
 
-`css` `framework` `modern-css`
+`bash` `security` `ovh-api` `fail2ban` `letsencrypt`
 
 </td>
 </tr>
@@ -91,28 +109,10 @@ EXIF photo sorter, BLAKE3 dedup, web gallery, tags, REST server.
 </td>
 <td width="50%" valign="top">
 
-**[geo3d](https://yrbane.github.io/geo3d/)**
-Generative 3D wireframe — 7 polyhedra, 8 palettes, URL params, random mode.
+**[lunar-aurora](https://github.com/yrbane/lunar-aurora)**
+Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container queries, 8 themes.
 
-`js` `canvas` `3d` `generative`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[veilleur](https://github.com/yrbane/veilleur)**
-News aggregator — your information sentinel.
-
-`typescript` `rss` `aggregator`
-
-</td>
-<td width="50%" valign="top">
-
-**[LacheMoiLaGrappe](https://github.com/yrbane/LacheMoiLaGrappe)**
-Android app for intelligent incoming call filtering.
-
-`kotlin` `android` `telephony`
+`css` `framework` `modern-css`
 
 </td>
 </tr>
