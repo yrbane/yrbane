@@ -32,7 +32,7 @@ I build tools that harden servers, replace core utilities, and make the web more
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
-DJ mixer in the browser — decks are YouTube players. Auto beatmatch, 3-band EQ, beat-locked loops, waveforms, MIDI, PWA. **[Live demo](https://yrbane.github.io/youtubator/)**
+DJ mixer in the browser — decks are YouTube players **or local files**. Customizable **automix** (harmonic mixing, bass swap, fade curves), auto beatmatch, 3-band EQ, beat-locked loops, waveforms, MIDI, PWA. **[Live demo](https://yrbane.github.io/youtubator/)**
 
 [<img src="https://yrbane.github.io/shots/youtubator.webp" alt="youtubator screenshot" width="100%">](https://yrbane.github.io/youtubator/)
 
