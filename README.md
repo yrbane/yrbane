@@ -42,7 +42,7 @@ DJ mixer in the browser — decks are YouTube players. Auto beatmatch, 3-band EQ
 <td width="50%" valign="top">
 
 **[WebGlitch](https://github.com/yrbane/WebGlitch)** 📺
-Browser extension that bends web pages with sound — audio drives CSS variables in real time, like a mixing console. 3 views, 3 themes, performance mode. **[Latest release](https://github.com/yrbane/WebGlitch/releases/latest)**
+Browser extension that bends web pages with sound or a MIDI controller — audio and CC drive CSS variables in real time. CC learn, per-site presets, effect snippets. **[Latest release](https://github.com/yrbane/WebGlitch/releases/latest)**
 
 [<img src="https://yrbane.github.io/shots/webglitch.webp" alt="WebGlitch screenshot" width="100%">](https://github.com/yrbane/WebGlitch)
 
