@@ -132,6 +132,18 @@ Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container quer
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[music-sorter](https://github.com/yrbane/music-sorter)** 🎵
+Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, content-hash dedup, `_review` quarantine, fully reversible rollback. Rust + rayon, SQLite-cached, blazing on re-runs. **[Latest release](https://github.com/yrbane/music-sorter/releases/latest)**
+
+[<img src="https://yrbane.github.io/shots/music-sorter.webp" alt="music-sorter screenshot" width="100%">](https://github.com/yrbane/music-sorter/releases/latest)
+
+`rust` `musicbrainz` `acoustid` `discogs`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -144,7 +156,7 @@ Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container quer
 
 <sub>
 
-[youtubator](https://yrbane.github.io/youtubator/) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
