@@ -29,6 +29,18 @@ I build tools that harden servers, replace core utilities, and make the web more
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+**[micro-blog-static](https://nethttp.net)** 📝
+Static blog generator with a PHP admin — full-text search (weighted inverted index), date archives, responsive WebP/LQIP media, scheduled publishing, TOTP 2FA, encrypted backups, outgoing webmentions, an AI assistant (Claude API) and a hardened CSP. TDD, PHPStan L5, CI + atomic deploy. **[Live demo](https://nethttp.net)** · **[Latest release](https://github.com/yrbane/micro-blog-static/releases/latest)**
+
+[<img src="https://yrbane.github.io/shots/micro-blog-static.webp" alt="micro-blog-static screenshot" width="100%">](https://nethttp.net)
+
+`php` `static-site-generator` `sqlite` `blog` `self-hosted`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
@@ -156,7 +168,7 @@ Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, c
 
 <sub>
 
-[youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[micro-blog-static](https://nethttp.net) · [youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
