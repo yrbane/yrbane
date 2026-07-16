@@ -32,7 +32,7 @@ I build tools that harden servers, replace core utilities, and make the web more
 <td colspan="2" valign="top">
 
 **[micro-blog-static](https://nethttp.net)** 📝
-Static blog generator with a PHP admin — full-text search (weighted inverted index), date archives, responsive WebP/LQIP media, scheduled publishing, TOTP 2FA, encrypted backups, outgoing webmentions, an AI assistant (Claude API) and a hardened CSP. TDD, PHPStan L5, CI + atomic deploy. **[Live demo](https://nethttp.net)** · **[Latest release](https://github.com/yrbane/micro-blog-static/releases/latest)**
+Static blog generator with a PHP admin — full-text search (weighted inverted index), date archives, responsive WebP/LQIP media, scheduled publishing, TOTP 2FA, encrypted backups, outgoing webmentions, auto breadcrumbs, an AI assistant (Claude API) and a hardened CSP. Ships bespoke per-article themes (an interactive cost calculator included). TDD, PHPStan L5, CI + atomic deploy. **[Live demo](https://nethttp.net)** · **[Latest release](https://github.com/yrbane/micro-blog-static/releases/latest)**
 
 [<img src="https://yrbane.github.io/shots/micro-blog-static.webp" alt="micro-blog-static screenshot" width="100%">](https://nethttp.net)
 
