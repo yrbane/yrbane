@@ -66,7 +66,7 @@ Browser extension that bends web pages with sound or a MIDI controller — audio
 <td width="50%" valign="top">
 
 **[potard](https://github.com/yrbane/potard)**
-Ableton/Traktor-style audio controls as Web Components — knobs, faders, crossfader. Zero deps. **[Interactive docs](https://yrbane.github.io/potard/)**
+Ableton/Traktor-style audio controls as Web Components — knobs, faders, arrow sliders, crossfader… and constant-sum mix groups to split a budget or skill points 🎚️ Zero deps. **[Interactive docs](https://yrbane.github.io/potard/)** · **[v0.3.0](https://github.com/yrbane/potard/releases/tag/v0.3.0)**
 
 [<img src="https://yrbane.github.io/shots/potard.webp" alt="potard screenshot" width="100%">](https://yrbane.github.io/potard/)
 
