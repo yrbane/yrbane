@@ -43,10 +43,10 @@ Static blog generator with a PHP admin — full-text search (weighted inverted i
 <tr>
 <td colspan="2" valign="top">
 
-**[minoupix](https://nethttp.net/projets/minoupix/)** 🐱
-One name, one cat. Forever. — a Rust generator of kawaii pixel-art cat heads, 100% deterministic and offline: the name is hashed into a seed, the seed draws everything (29 coats, 12 moods, 36 accessories, rarity ornaments), and the same name always yields the exact same cat. GIFs are alive: blinking with a wink sparkle, jingling bell, twinkling stars, beating hearts, floating Zzz, a snail that actually crawls. Now an NFT collection — the **210-cat genesis** (from Bastet to Ziggy) lives on **Base**, metadata pinned on IPFS with verifiable on-chain freeze. 353 tests, TDD all the way.
+**[minoupix](https://minoupix.com)** 🐱
+One name, one cat. Forever. — a Rust generator of kawaii pixel-art cat heads, 100% deterministic and offline: the name is hashed into a seed, the seed draws everything (29 coats, 12 moods, 36 accessories, rarity ornaments), and the same name always yields the exact same cat. GIFs are alive: blinking with a wink sparkle, jingling bell, twinkling stars, beating hearts, floating Zzz, a snail that actually crawls. Now an NFT collection — the **210-cat genesis** (from Bastet to Ziggy) lives on **Base**, metadata pinned on IPFS with verifiable on-chain freeze, and the whole genesis is browsable at **[minoupix.com](https://minoupix.com)** — every cat with its own page in 11 languages. 354 tests, TDD all the way. **[Live site](https://minoupix.com)**
 
-[<img src="https://yrbane.github.io/shots/minoupix.webp" alt="minoupix — eight kawaii pixel-art cats" width="100%">](https://nethttp.net/projets/minoupix/)
+[<img src="https://yrbane.github.io/shots/minoupix.webp" alt="minoupix.com — the genesis home page, a grid of 210 animated pixel-art cats" width="100%">](https://minoupix.com)
 
 `rust` `pixel-art` `deterministic` `nft` `base` `ipfs`
 
