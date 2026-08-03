@@ -41,6 +41,18 @@ Static blog generator with a PHP admin — full-text search (weighted inverted i
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+**[minoupix](https://nethttp.net/projets/minoupix/)** 🐱
+One name, one cat. Forever. — a Rust generator of kawaii pixel-art cat heads, 100% deterministic and offline: the name is hashed into a seed, the seed draws everything (29 coats, 12 moods, 36 accessories, rarity ornaments), and the same name always yields the exact same cat. GIFs are alive: blinking with a wink sparkle, jingling bell, twinkling stars, beating hearts, floating Zzz, a snail that actually crawls. Now an NFT collection — the **210-cat genesis** (from Bastet to Ziggy) lives on **Base**, metadata pinned on IPFS with verifiable on-chain freeze. 353 tests, TDD all the way.
+
+[<img src="https://yrbane.github.io/shots/minoupix.webp" alt="minoupix — eight kawaii pixel-art cats" width="100%">](https://nethttp.net/projets/minoupix/)
+
+`rust` `pixel-art` `deterministic` `nft` `base` `ipfs`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
