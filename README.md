@@ -78,9 +78,9 @@ Browser extension that bends web pages with sound or a MIDI controller — audio
 <td colspan="2" valign="top">
 
 **[RustyPet](https://github.com/yrbane/rustypet)** 🐑🐈
-Desktop pet for GNOME Shell on Wayland — a Rust port of the legendary eSheep/Neko screenmates. The sheep drops from the top of your screen, lands on your windows, strolls across their roofs… and tumbles off the edge. Pure engine testable without a display (80+ tests, deterministic replay by seed), D-Bus daemon + GNOME extension, all 28 original pets supported. TDD all the way. **[Latest release](https://github.com/yrbane/rustypet/releases/latest)**
+Desktop pet for GNOME Shell on Wayland — a Rust port of the legendary eSheep/Neko screenmates. The sheep drops from the sky, lands on your windows, strolls across their roofs… and since v0.17, **RustySheep** dances, smokes, flies like Superman, parachutes in, blasts off in a rocket, eats the flower that grows at his feet and trips on acid 🕶️🚀🌼 — all data-driven, zero engine changes. Pure engine testable without a display (85+ tests, deterministic replay by seed), D-Bus daemon + GNOME extension, all 28 original pets supported. TDD all the way. **[Latest release](https://github.com/yrbane/rustypet/releases/latest)**
 
-[<img src="https://yrbane.github.io/shots/rustypet.webp" alt="RustyPet screenshot" width="100%">](https://github.com/yrbane/rustypet)
+[<img src="https://yrbane.github.io/shots/rustypet.webp" alt="RustyPet screenshot — sheep dancing, smoking, flying and rocketing across window roofs" width="100%">](https://github.com/yrbane/rustypet)
 
 `rust` `gnome-shell` `wayland` `d-bus` `desktop-pet`
 
