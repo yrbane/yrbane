@@ -53,16 +53,6 @@ One name, one cat. Forever. — a Rust generator of kawaii pixel-art cat heads, 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-
-**[lutin](https://github.com/yrbane/lutin)** 🧚
-It spends the night perfecting your repos without ever being seen — a Rust daemon that wakes up every night (2am–5am) to audit and improve the repos of this very account, inside disposable podman sandboxes driven by a headless Claude: prod log analysis, fixes, bilingual changelogs, automatic deployment rollback, and an email report at dawn. TDD, ≥ 80% coverage, GPL-3.0. **[Latest release](https://github.com/yrbane/lutin/releases/latest)**
-
-`rust` `automation` `podman` `sandbox` `night-shift`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
