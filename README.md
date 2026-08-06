@@ -53,6 +53,30 @@ One name, one cat. Forever. — a Rust generator of kawaii pixel-art cat heads, 
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+**[SysWall](https://github.com/yrbane/SysWall)** 🛡️
+Application-level firewall for Linux — the Little Snitch experience, native and open source. Intercepts every new connection with **nftables + NFQUEUE**, attributes it to the owning process via **eBPF**, and prompts you to allow / block / snooze / make-a-rule from a **Tauri** desktop app. Live connection monitor, audit journal, learning mode, kill-switch with anti-lockout. Rust **hexagonal architecture** (domain/app/infra/daemon), gRPC over a `SO_PEERCRED`-hardened Unix socket, systemd-sandboxed unit. TDD, fuzzing + proptest, green CI, one-command install. **[Latest release](https://github.com/yrbane/SysWall/releases/latest)**
+
+[<img src="https://yrbane.github.io/shots/syswall.webp" alt="SysWall screenshot" width="100%">](https://github.com/yrbane/SysWall)
+
+`rust` `linux` `firewall` `nftables` `ebpf` `tauri`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[Oscillo](https://github.com/yrbane/oscillo)** 〰️
+Real-time stereo audio oscilloscope in Rust — the **Mordax DATA** spirit on your desktop. Cross-platform capture with **cpal** (WASAPI / CoreAudio / ALSA), **egui** rendering at 60 FPS, and a **lock-free ring buffer** between the audio callback and the UI — zero allocation in the hot path. Overlay / Split / **XY (Lissajous)** display modes, scope-grade trigger (level, edge, single-shot), per-channel gain & offset, persistent settings. Feed it two oscillators, switch to XY, and *watch* a perfect fifth draw itself. MIT. **[Latest release](https://github.com/yrbane/oscillo/releases/latest)**
+
+[<img src="https://yrbane.github.io/shots/oscillo.webp" alt="Oscillo screenshot — real-time stereo waveforms" width="100%">](https://github.com/yrbane/oscillo)
+
+`rust` `audio` `dsp` `egui` `oscilloscope` `real-time`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
@@ -202,7 +226,7 @@ Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, c
 
 <sub>
 
-[micro-blog-static](https://nethttp.net) · [youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
