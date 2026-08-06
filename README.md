@@ -111,16 +111,6 @@ Desktop pet for GNOME Shell on Wayland — a Rust port of the legendary eSheep/N
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-
-**[SysWall](https://github.com/yrbane/SysWall)** 🛡️
-Application-level Linux firewall for the desktop — the Little Snitch (macOS) / GlassWire (Windows) equivalent, filtering by **application** rather than IP/port. Identifies who talks to whom via eBPF + conntrack, enforces granular rules through nftables (7 combinable criteria, temporary rules, priorities), auto-learning with debounced notifications, full audit log, rollback-safe anti-lockout guard. Tauri + Svelte UI with a cyber/neon theme. 358 tests, TDD, CI with fuzzing and property-based testing.
-
-`rust` `tauri` `svelte` `nftables` `ebpf` `linux-firewall`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[potard](https://github.com/yrbane/potard)**
