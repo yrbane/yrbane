@@ -204,6 +204,28 @@ Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, c
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[LacheMoiLaGrappe](https://github.com/yrbane/LacheMoiLaGrappe)** 🛡️
+Anti-telemarketer shield for Android — smart call filtering, open source, free, zero tracking. **[Project page](https://yrbane.github.io/LacheMoiLaGrappe/)**
+
+[<img src="https://yrbane.github.io/shots/lachemoilagrappe.webp" alt="LacheMoiLaGrappe screenshot" width="100%">](https://yrbane.github.io/LacheMoiLaGrappe/)
+
+`kotlin` `android` `privacy`
+
+</td>
+<td width="50%" valign="top">
+
+**[geo3d](https://github.com/yrbane/geo3d)** 🔺
+Generative 3D wireframe animation — 7 polyhedra, 8 palettes, random mode, URL params. Zero deps. **[Live demo](https://yrbane.github.io/geo3d/)**
+
+[<img src="https://yrbane.github.io/shots/geo3d.webp" alt="geo3d screenshot" width="100%">](https://yrbane.github.io/geo3d/)
+
+`javascript` `3d` `generative` `wireframe`
+
+</td>
+</tr>
 </table>
 
 ---
