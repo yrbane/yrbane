@@ -184,7 +184,7 @@ EXIF photo sorter, BLAKE3 dedup, web gallery, tags, REST server.
 <td width="50%" valign="top">
 
 **[lunar-aurora](https://github.com/yrbane/lunar-aurora)**
-Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container queries, 8 themes.
+Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container queries, 30 themes.
 
 [<img src="https://yrbane.github.io/shots/lunar-aurora.webp" alt="lunar-aurora screenshot" width="100%">](https://yrbane.github.io/lunar-aurora/)
 
