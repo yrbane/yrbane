@@ -203,6 +203,16 @@ Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, c
 `rust` `musicbrainz` `acoustid` `discogs`
 
 </td>
+<td width="50%" valign="top">
+
+**[tuner](https://github.com/yrbane/tuner)** ᛚ
+Chromatic tuner in the browser, built for analog synths — mic → autocorrelation → giant note, cents offset, needle, unambiguous colors. Median + hysteresis anti-jitter, SENS knob, VU meter (powered by [potard](https://github.com/yrbane/potard)). Zero deps, no sound ever leaves the browser. **[Tune now](https://tuner.nethttp.net)**
+
+[<img src="https://yrbane.github.io/shots/tuner.webp" alt="tuner screenshot — LA1 at +1 cent, all green" width="100%">](https://tuner.nethttp.net)
+
+`javascript` `web-audio` `autocorrelation` `synths`
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
