@@ -77,6 +77,18 @@ Real-time stereo audio oscilloscope in Rust — the **Mordax DATA** spirit on yo
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+**[okulist](https://yrbane.github.io/okulist/)** 👁️
+Visual self-screening in your browser — acuity (Landolt rings), duochrome, astigmatism, contrast sensitivity, near vision, color vision, Amsler grid, digital eye strain, 14 tests in all. Screen calibration via a credit card reference + measured gamma (proper Weber contrast, sub-pixel vernier rendering), optional webcam distance tracking (FaceMesh, 100% local, nothing leaves the browser), session history with acuity trend graphs. Wraps up with the macOS accessibility settings your results actually suggest. Clearly labeled indicative, not diagnostic. Offline-first PWA, single-file vanilla JS. **[Live demo](https://yrbane.github.io/okulist/)**
+
+[<img src="https://yrbane.github.io/shots/okulist.webp" alt="okulist screenshot — red/green duochrome test bars above the calibration screen" width="100%">](https://yrbane.github.io/okulist/)
+
+`javascript` `accessibility` `vision` `pwa` `canvas`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
