@@ -31,6 +31,18 @@ I build tools that harden servers, replace core utilities, and make the web more
 <tr>
 <td colspan="2" valign="top">
 
+**[cor-ex-machina-horizon](https://yrbane.github.io/cor-ex-machina-horizon/)** 🌄
+A landscape that *is* the music — one self-contained HTML file. Every ridge is the loudness curve of the set at a different time scale, scrolling in true parallax; the sun and moon take turns, weather rolls through, and 29 kinds of things pass by (a banner plane, a whale, a UFO…). Drop your own tracks in the playlist and the mountains rise as you listen, then get cached for next time. Transport bar built with [potard](https://github.com/yrbane/potard). 72 tests, TDD. **[Live demo](https://yrbane.github.io/cor-ex-machina-horizon/)** · **[v1.5.1](https://github.com/yrbane/cor-ex-machina-horizon/releases/tag/v1.5.1)**
+
+[<img src="https://yrbane.github.io/shots/cor-ex-machina-horizon.webp" alt="cor-ex-machina-horizon screenshot" width="100%">](https://yrbane.github.io/cor-ex-machina-horizon/)
+
+`javascript` `canvas` `web-audio` `generative` `music-visualizer`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **[micro-blog-static](https://nethttp.net)** 📝
 Static blog generator with a PHP admin — full-text search (weighted inverted index), date archives, responsive WebP/LQIP media, scheduled publishing, TOTP 2FA, encrypted backups, outgoing webmentions, auto breadcrumbs, an AI assistant (Claude API) and a hardened CSP. Ships bespoke per-article themes (an interactive cost calculator included). TDD, PHPStan L5, CI + atomic deploy. **[Live demo](https://nethttp.net)**
 
