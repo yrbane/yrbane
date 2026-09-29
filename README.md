@@ -220,7 +220,7 @@ Avant-garde CSS framework — OKLCH colors, `@property`, nesting, container quer
 <td width="50%" valign="top">
 
 **[music-sorter](https://github.com/yrbane/music-sorter)** 🎵
-Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, content-hash dedup, `_review` quarantine, fully reversible rollback. Rust + rayon, SQLite-cached, blazing on re-runs. **[Latest release](https://github.com/yrbane/music-sorter/releases/latest)**
+Automatic music library organizer — MusicBrainz, AcoustID & Discogs tagging, reliable compilation detection, tag sanitizing (artist hidden in title, catalog prefixes, stray `.wav`), acoustic dedup keeping the best quality, `_review` quarantine, fully reversible rollback, safe in-place re-sort. Rust + rayon, SQLite-cached, blazing on re-runs. **[Latest release](https://github.com/yrbane/music-sorter/releases/latest)** 🆕 v0.7.0
 
 [<img src="https://yrbane.github.io/shots/music-sorter.webp" alt="music-sorter screenshot" width="100%">](https://github.com/yrbane/music-sorter/releases/latest)
 
