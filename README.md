@@ -31,6 +31,18 @@ I build tools that harden servers, replace core utilities, and make the web more
 <tr>
 <td colspan="2" valign="top">
 
+**[rustty](https://github.com/yrbane/rustty)** 🦀🖥️
+A GPU terminal emulator in Rust, inspired by kitty — but with the things I always wanted: tabs with a **real ✕ close button** (hover and all), horizontal/vertical **splits**, background **opacity**, and a plain **TOML** config. Five pure crates so far, built strictly TDD: VT emulation with scrollback (`vte`), tab/split layout tree (proptest invariants), config, pty (`portable-pty`) and a **wgpu** renderer — fonts via `fontdb` + `swash`, procedural box-drawing & powerline glyphs, glyph atlas, and **pixel-exact golden images rendered off-screen in CI on Linux (lavapipe), macOS and Windows**. The window that ties it all together is next. 290+ tests. **[Releases](https://github.com/yrbane/rustty/releases)**
+
+[<img src="https://yrbane.github.io/shots/rustty.webp" alt="rustty — the crab mascot next to the renderer's golden images: tab bar with ✕ buttons, Hello world, box drawing and powerline glyphs" width="100%">](https://github.com/yrbane/rustty)
+
+`rust` `terminal` `wgpu` `gpu` `vt100` `tdd`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **[cor-ex-machina-horizon](https://yrbane.github.io/cor-ex-machina-horizon/)** 🌄
 A landscape that *is* the music — one self-contained HTML file. Every ridge is the loudness curve of the set at a different time scale, scrolling in true parallax; the sun and moon take turns, weather rolls through, and 45 kinds of things pass by (a banner plane, a whale, a UFO, a tram, an anglerfish…). Four scenes on one engine: a shoreline with rippling reflections, a mountain valley (green, desert, snow), a city (modern, old town, neon) with real crowds — ten car models, eight kinds of pedestrians, never two alike on screen — and the ocean floor (reef, kelp forest, abyss) teeming with fourteen kinds of fish and, once in a while, a whale as wide as the screen — biomes alternate, and the scene switches with every new track. Drop your own tracks in the playlist and the mountains rise as you listen, then get cached for next time. Transport bar built with [potard](https://github.com/yrbane/potard). 90 tests, TDD. **[Live demo](https://yrbane.github.io/cor-ex-machina-horizon/)** · **[v1.9.3](https://github.com/yrbane/cor-ex-machina-horizon/releases/tag/v1.9.3)**
 
@@ -272,7 +284,7 @@ Generative 3D wireframe animation — 7 polyhedra, 8 palettes, random mode, URL 
 
 <sub>
 
-[micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[rustty](https://github.com/yrbane/rustty) · [micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
