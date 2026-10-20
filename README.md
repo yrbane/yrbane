@@ -56,9 +56,9 @@ A landscape that *is* the music — one self-contained HTML file. Every ridge is
 <td colspan="2" valign="top">
 
 **[Veilleur](https://news.nethttp.net)** 📰
-A free news aggregator — your sentinel of information. RSS feeds and scraped HTML pages in **one feed, no algorithm**: tags, ratings, community discovery, full-text search, a local **image cache** (BullMQ worker + sharp thumbnails). Fastify 5, MariaDB, Redis, Web Components without a framework, 446 tests. Self-hosted on a Debian 13 box with an idempotent deploy script (systemd + Apache reverse proxy). **[Live](https://news.nethttp.net)**
+A free news aggregator — your sentinel of information. Paste a site address and the feed is **discovered automatically** (protocol too). RSS feeds and scraped HTML pages in **one feed, no algorithm**: rate articles 1–5 stars, favorite them, classify them with tags, sort (date, rating, title, source), full-text search, infinite scroll, community discovery, a local **image cache** (BullMQ worker + sharp thumbnails). Fastify 5, MariaDB, Redis, Web Components without a framework, 489 tests. Self-hosted on a Debian 13 box with continuous deployment (GitHub Actions → systemd + Apache reverse proxy). **[Live](https://news.nethttp.net)**
 
-[<img src="https://yrbane.github.io/shots/veilleur.webp" alt="Veilleur screenshot — home page of the news aggregator" width="100%">](https://news.nethttp.net)
+[<img src="https://yrbane.github.io/shots/veilleur.webp" alt="Veilleur screenshot — news feed with ratings, favorites, tags, sorting and search" width="100%">](https://news.nethttp.net)
 
 `typescript` `fastify` `rss` `bullmq` `web-components` `tdd`
 
