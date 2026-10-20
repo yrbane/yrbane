@@ -55,6 +55,18 @@ A landscape that *is* the music — one self-contained HTML file. Every ridge is
 <tr>
 <td colspan="2" valign="top">
 
+**[Veilleur](https://news.nethttp.net)** 📰
+A free news aggregator — your sentinel of information. RSS feeds and scraped HTML pages in **one feed, no algorithm**: tags, ratings, community discovery, full-text search, a local **image cache** (BullMQ worker + sharp thumbnails). Fastify 5, MariaDB, Redis, Web Components without a framework, 446 tests. Self-hosted on a Debian 13 box with an idempotent deploy script (systemd + Apache reverse proxy). **[Live](https://news.nethttp.net)**
+
+[<img src="https://yrbane.github.io/shots/veilleur.webp" alt="Veilleur screenshot — home page of the news aggregator" width="100%">](https://news.nethttp.net)
+
+`typescript` `fastify` `rss` `bullmq` `web-components` `tdd`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **[micro-blog-static](https://nethttp.net)** 📝
 Static blog generator with a PHP admin — full-text search (weighted inverted index), date archives, responsive WebP/LQIP media, scheduled publishing, TOTP 2FA, encrypted backups, outgoing webmentions, auto breadcrumbs, an AI assistant (Claude API) and a hardened CSP. Ships bespoke per-article themes (an interactive cost calculator included). TDD, PHPStan L5, CI + atomic deploy. **[Live demo](https://nethttp.net)**
 
@@ -284,7 +296,7 @@ Generative 3D wireframe animation — 7 polyhedra, 8 palettes, random mode, URL 
 
 <sub>
 
-[rustty](https://github.com/yrbane/rustty) · [micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[rustty](https://github.com/yrbane/rustty) · [micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [veilleur](https://news.nethttp.net) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
