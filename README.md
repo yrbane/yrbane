@@ -56,11 +56,11 @@ A landscape that *is* the music — one self-contained HTML file. Every ridge is
 <td colspan="2" valign="top">
 
 **[Veilleur](https://news.nethttp.net)** 📰
-A free news aggregator — your sentinel of information. Paste a site address and the feed is **discovered automatically** (protocol too). RSS feeds and scraped HTML pages in **one feed, no algorithm**: paste a site address and the feed, favicon and tags are detected for you; every article is auto-classified with five extracted keywords (no ML, no API), rate articles 1–5 stars, favorite them, sort (date, rating, title, source), full-text search, infinite scroll, community discovery, a local **image cache** (BullMQ worker + sharp thumbnails). Fastify 5, MariaDB, Redis, Web Components without a framework, 507 tests. Self-hosted on a Debian 13 box with continuous deployment (GitHub Actions → systemd + Apache reverse proxy). **[Live](https://news.nethttp.net)**
+A free news aggregator — your sentinel of information. Paste a site address and the feed is **discovered automatically** (protocol too). RSS feeds and scraped HTML pages in **one feed, no algorithm**: paste a site address and the feed, favicon and tags are detected for you; every article is auto-classified with five extracted keywords (no ML, no API), rate articles 1–5 stars, favorite them, sort (date, rating, title, source), full-text search, infinite scroll, community discovery, a local **image cache** (BullMQ worker + sharp thumbnails). Fastify 5, MariaDB, Redis, Web Components without a framework, styled with the [Lunar Aurora](https://github.com/yrbane/lunar-aurora) CSS framework and Material Symbols (light/dark theme), 507 tests. Self-hosted on a Debian 13 box with continuous deployment (GitHub Actions → systemd + Apache reverse proxy). **[Live](https://news.nethttp.net)**
 
-[<img src="https://yrbane.github.io/shots/veilleur.webp" alt="Veilleur screenshot — news feed with auto keywords, ratings, favorites, sorting and search" width="100%">](https://news.nethttp.net)
+[<img src="https://yrbane.github.io/shots/veilleur.webp" alt="Veilleur screenshot — news feed styled with Lunar Aurora: auto keywords, ratings, favorites, sorting and search" width="100%">](https://news.nethttp.net)
 
-`typescript` `fastify` `rss` `bullmq` `web-components` `tdd`
+`typescript` `fastify` `rss` `bullmq` `web-components` `lunar-aurora` `tdd`
 
 </td>
 </tr>
