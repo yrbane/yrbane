@@ -31,6 +31,18 @@ I build tools that harden servers, replace core utilities, and make the web more
 <tr>
 <td colspan="2" valign="top">
 
+**[Miaou](https://github.com/yrbane/miaou)** 🐱🔐
+Peer-to-peer, **post-quantum** instant messaging with no central server. Every conversation starts with a **PQXDH** handshake (X25519 + ML-KEM-768, Ed25519-signed) and then runs on a **Double Ratchet** — forward secrecy, zeroized keys, sessions and prekeys persisted in a **SQLCipher** keystore. Traffic rides the encrypted **Yggdrasil** mesh (QUIC + TLS), a **Kademlia DHT** publishes profiles and key bundles, blind relays and **Reed-Solomon** erasure coding keep messages alive while the recipient is offline 😴. Two clients on one 17-crate core: a WeeChat-style **TUI** and a **Tauri v2 + Svelte 5** desktop app with replies, reactions, edits, image sharing, groups and a built-in terminal. Strict TDD, 780+ tests, zero clippy warnings 🦀. **[Releases](https://github.com/yrbane/miaou/releases)**
+
+[<img src="https://yrbane.github.io/shots/miaou.webp" alt="Miaou desktop client — conversation list, end-to-end encrypted bubbles, a shared image, a quoted reply and the E2EE badge" width="100%">](https://github.com/yrbane/miaou)
+
+`rust` `pqxdh` `double-ratchet` `ml-kem` `yggdrasil` `tauri` `svelte` `tdd`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **[rustty](https://github.com/yrbane/rustty)** 🦀🖥️
 A GPU terminal emulator in Rust, inspired by kitty — but with the things I always wanted: tabs with a **real ✕ close button** (hover and all), horizontal/vertical **splits** that open right in your current directory, background **opacity**, and a plain **TOML** config. Five pure crates so far, built strictly TDD: VT emulation with scrollback (`vte`), tab/split layout tree (proptest invariants), config, pty (`portable-pty`) and a **wgpu** renderer — fonts via `fontdb` + `swash`, procedural box-drawing & powerline glyphs, glyph atlas, and **pixel-exact golden images rendered off-screen in CI on Linux (lavapipe), macOS and Windows**. The window is here too: tabs you can rename and color (or let it pick random vivid colors), draggable split bars with **live text reflow**, per-pane font zoom (ctrl+wheel), hot-reloaded config with remappable shortcuts, **right-click menus** on the terminal, tabs and pane headers, **Terminator-style drag and drop** 🖱️ (each pane of a split tab gets a header in its split's color — grab it and drop the pane anywhere, even in another tab; reorder tabs with the mouse, pick tab colors from a swatch 🎨), **images right in the terminal** 🖼️ (kitty graphics protocol — `rustty img photo.jpg` or `rustty img https://…`, PNG/JPEG/GIF/WebP, scrolling with the text), and a crab icon everywhere — `cargo install` and go. 730+ tests. **[Releases](https://github.com/yrbane/rustty/releases)**
 
@@ -296,7 +308,7 @@ Generative 3D wireframe animation — 7 polyhedra, 8 palettes, random mode, URL 
 
 <sub>
 
-[rustty](https://github.com/yrbane/rustty) · [micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [veilleur](https://news.nethttp.net) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
+[Miaou](https://github.com/yrbane/miaou) · [rustty](https://github.com/yrbane/rustty) · [micro-blog-static](https://nethttp.net) · [SysWall](https://github.com/yrbane/SysWall) · [youtubator](https://yrbane.github.io/youtubator/) · [veilleur](https://news.nethttp.net) · [music-sorter](https://github.com/yrbane/music-sorter) · [debian13-admin](https://yrbane.github.io/debian13-admin/) · [geo3d](https://yrbane.github.io/geo3d/) · [GitHub](https://github.com/yrbane?tab=repositories)
 
 </sub>
 
