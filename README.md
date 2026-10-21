@@ -68,7 +68,7 @@ A landscape that *is* the music — one self-contained HTML file. Every ridge is
 <td colspan="2" valign="top">
 
 **[Veilleur](https://news.nethttp.net)** 📰
-A free news aggregator — your sentinel of information. Paste a site address and the feed is **discovered automatically** (protocol too). RSS feeds and scraped HTML pages in **one feed, no algorithm**: five extracted keywords per article (no ML, no API), trending topics, sections, read/unread, read-it-later and an in-place reader, 1–5 star ratings, favorites, full-text search with highlighting, JSON/CSV export. Community: suggested sources, most-loved articles, opt-in leaderboard with levels, badges and reading streaks. **Web Push** after each sync, a morning e-mail digest, and it installs as a **PWA** that works offline. Local image cache, 2FA, 604 tests.
+A free news aggregator — your sentinel of information. Paste a site address and the feed is **discovered automatically** (protocol too). RSS feeds and scraped HTML pages in **one feed, no algorithm**: five extracted keywords per article (no ML, no API), trending topics, sections, read/unread, read-it-later and an in-place reader, 1–5 star ratings, favorites, full-text search with highlighting, JSON/CSV export. Community: suggested sources, most-loved articles, opt-in leaderboard with levels, badges and reading streaks. **Web Push** after each sync, a morning e-mail digest, and it installs as a **PWA** that works offline. Local image cache, 2FA, 609 tests.
 
 [<img src="https://yrbane.github.io/shots/veilleur.webp" alt="Veilleur screenshot — news feed styled with Lunar Aurora: sections, trending topics, keywords, filters, ratings and favorites" width="100%">](https://news.nethttp.net)
 
