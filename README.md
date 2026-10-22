@@ -140,11 +140,23 @@ Visual self-screening in your browser — acuity (Landolt rings), duochrome, ast
 <td colspan="2" valign="top">
 
 **[make it drum.exe](https://yrbane.github.io/makeItDrum/)** 🥁🪟
-A project by **[Masao « Saiya Geez »](https://beacons.ai/saiyageez)**. Drop **any sound** — a door slam, a voice, a pan — and get a **kit of 20 wildly different percussions**, carved out of your sample by a procedural Web Audio engine (folding, saturation, comb, phasing, bitcrush, reverb). Hover to hear, click for a new variation, download the whole kit as `.wav` in a `.zip`. One HTML file, zero dependency, Windows XP vibes. **[Live demo](https://yrbane.github.io/makeItDrum/)** · **[Latest release](https://github.com/yrbane/makeItDrum/releases/latest)**
+A project by **[Masao « Saiya Geez »](https://beacons.ai/saiyageez)**. Drop **any sound** — a door slam, a voice, a pan — and get a **kit of 20 wildly different percussions**, carved out of your sample by a procedural Web Audio engine (folding, saturation, comb, phasing, bitcrush, reverb). Hover to hear, click for a new variation, **save kits in the browser and hot-swap them**, export a `.kit.zip` (20 `.wav` + `kit.json`) straight into the VST3 / CLAP plugin below. One HTML file, zero dependency, Windows XP vibes. **[Live demo](https://yrbane.github.io/makeItDrum/)** · **[Latest release](https://github.com/yrbane/makeItDrum/releases/latest)**
 
 [<img src="https://yrbane.github.io/shots/makeitdrum.webp" alt="make it drum screenshot" width="100%">](https://yrbane.github.io/makeItDrum/)
 
 `javascript` `web-audio` `drum-machine` `sampler` `single-file`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[make it drum — kit player](https://github.com/yrbane/makeItDrum-plugin)** 🥁🎹
+The **VST3 / CLAP instrument** for make it drum kits. Export a kit from the page, drop the `.zip` in `~/Documents/makeitdrum/kits/`, and play its **20 percussions from any MIDI keyboard or pad** (GM notes 36–55). Hot-swap kits from a selectbox, kit embedded in the preset, 20 one-shot voices, zero allocation on the audio thread. Rust + nih-plug, builds for Linux, Windows (Live under Wine included) and macOS. **[Latest release](https://github.com/yrbane/makeItDrum-plugin/releases/latest)**
+
+[<img src="https://yrbane.github.io/shots/makeitdrum-plugin.webp" alt="make it drum kit player screenshot" width="100%">](https://github.com/yrbane/makeItDrum-plugin)
+
+`rust` `vst3` `clap` `nih-plug` `midi` `sampler`
 
 </td>
 </tr>
