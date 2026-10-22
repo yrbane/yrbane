@@ -152,11 +152,11 @@ A project by **[Masao « Saiya Geez »](https://beacons.ai/saiyageez)**. Drop **
 <td colspan="2" valign="top">
 
 **[make it drum — kit player](https://github.com/yrbane/makeItDrum-plugin)** 🥁🎹
-The **VST3 / CLAP instrument** for make it drum kits. Export a kit from the page, drop the `.zip` in `~/Documents/makeitdrum/kits/`, and play its **20 percussions from any MIDI keyboard or pad** (GM notes 36–55). Hot-swap kits from a selectbox, kit embedded in the preset, 20 one-shot voices, zero allocation on the audio thread. Rust + nih-plug, builds for Linux, Windows (Live under Wine included) and macOS. **[Latest release](https://github.com/yrbane/makeItDrum-plugin/releases/latest)**
+The **VST3 / CLAP / AU instrument** for make it drum kits. Export a kit from the page, drop the `.zip` in `~/Documents/makeitdrum/kits/`, and play its **20 percussions from any MIDI keyboard or pad** (GM notes 36–55). Hot-swap kits from a selectbox, kit embedded in the preset, 20 one-shot voices, zero allocation on the audio thread. Rust + nih-plug, builds for Linux, Windows (Live under Wine included) and macOS universal, with an Audio Unit for Logic Pro and GarageBand. **[Latest release](https://github.com/yrbane/makeItDrum-plugin/releases/latest)**
 
 [<img src="https://yrbane.github.io/shots/makeitdrum-plugin.webp" alt="make it drum kit player screenshot" width="100%">](https://github.com/yrbane/makeItDrum-plugin)
 
-`rust` `vst3` `clap` `nih-plug` `midi` `sampler`
+`rust` `vst3` `clap` `au` `nih-plug` `midi` `sampler`
 
 </td>
 </tr>
