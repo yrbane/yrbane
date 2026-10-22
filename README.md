@@ -137,6 +137,18 @@ Visual self-screening in your browser — acuity (Landolt rings), duochrome, ast
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+**[make it drum.exe](https://yrbane.github.io/makeItDrum/)** 🥁🪟
+Drop **any sound** — a door slam, a voice, a pan — and get a **kit of 20 wildly different percussions**, carved out of your sample by a procedural Web Audio engine (folding, saturation, comb, phasing, bitcrush, reverb). Hover to hear, click for a new variation, download the whole kit as `.wav` in a `.zip`. One HTML file, zero dependency, Windows XP vibes. **[Live demo](https://yrbane.github.io/makeItDrum/)** · **[Latest release](https://github.com/yrbane/makeItDrum/releases/latest)**
+
+[<img src="https://yrbane.github.io/shots/makeitdrum.webp" alt="make it drum screenshot" width="100%">](https://yrbane.github.io/makeItDrum/)
+
+`javascript` `web-audio` `drum-machine` `sampler` `single-file`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[youtubator](https://yrbane.github.io/youtubator/)** 🎛️
