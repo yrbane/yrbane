@@ -55,6 +55,18 @@ A GPU terminal emulator in Rust, inspired by kitty — but with the things I alw
 <tr>
 <td colspan="2" valign="top">
 
+**[ortho](https://github.com/yrbane/claude-ortho)** ✍️🤖
+A **Claude Code mod** that spell-checks what you type: as you write in the prompt box, typos get a **red** underline and grammar slips a **blue** one, courtesy of a **local LanguageTool** server the mod starts on demand — code, URLs, paths and identifiers are left alone, and nothing ever leaves your machine. The text sent to Claude is never changed. Inside **[rustty](https://github.com/yrbane/rustty)**, hover an underlined word and a GPU-drawn tooltip offers the corrections; **one click fixes the word** in your draft. Built TDD on the engine's testing kit (mocked clock and network). `/plugin install ortho --marketplace yrbane/claude-ortho` and you're set.
+
+[<img src="https://yrbane.github.io/shots/ortho.webp" alt="ortho inside rustty: Claude Code's prompt with red (spelling) and blue (grammar) underlines, and the correction tooltip open over « poulle » offering poule, poulie, poulet" width="100%">](https://github.com/yrbane/claude-ortho)
+
+`typescript` `claude-code` `mod` `languagetool` `tdd`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **[cor-ex-machina-horizon](https://yrbane.github.io/cor-ex-machina-horizon/)** 🌄
 A landscape that *is* the music — one self-contained HTML file. Every ridge is the loudness curve of the set at a different time scale, scrolling in true parallax; the sun and moon take turns, weather rolls through, and 45 kinds of things pass by (a banner plane, a whale, a UFO, a tram, an anglerfish…). Four scenes on one engine: a shoreline with rippling reflections, a mountain valley (green, desert, snow), a city (modern, old town, neon) with real crowds — ten car models, eight kinds of pedestrians, never two alike on screen — and the ocean floor (reef, kelp forest, abyss) teeming with fourteen kinds of fish and, once in a while, a whale as wide as the screen — biomes alternate, and the scene switches with every new track. Drop your own tracks in the playlist and the mountains rise as you listen, then get cached for next time. Transport bar built with [potard](https://github.com/yrbane/potard). 90 tests, TDD. **[Live demo](https://yrbane.github.io/cor-ex-machina-horizon/)** · **[v1.9.3](https://github.com/yrbane/cor-ex-machina-horizon/releases/tag/v1.9.3)**
 
